@@ -99,7 +99,7 @@ Steps:
 				
 
 You can download the config files @
-Github: https://github.com/mroyon/MongoDB_Replication
+Github: https://github.com/mroyon/Mongodb_Cluster
 upcoming video: ASP.Net Core Web App application log management using mongodb and serilog.
 
 Software used:
