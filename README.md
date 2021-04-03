@@ -1,3 +1,9 @@
+# MongoCluster-FailOver
+
+<img src="MongoCluster copy.png" />
+
+
+
 MongoDB Enterprise Replication and Failover Step by step
 
 Hello, welcome to my channel. In this video, I tried to show how to implement "MongoDB Master/Slave replication" from the scratch and addition to this, also showed how fail over managed.
